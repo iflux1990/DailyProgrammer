@@ -12,6 +12,7 @@ So far in contains my versions of:
 4. Torn Numbers
 5. xmas tree generator
 6. Arithmatics
+7. Disemvoweler
 
 
 If you have any ideas or critics, you are welcome to comment!
