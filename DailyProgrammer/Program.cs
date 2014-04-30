@@ -12,9 +12,6 @@ namespace Disemvoweler
         {
             new MainMenu();
         }
-
-        
-
     }
 }
     
