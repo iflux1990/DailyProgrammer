@@ -3,7 +3,7 @@ DailyProgrammer
 
 This is a collection of challenges from /r/dailyProgrammer
 
-So far in contains my versions of:
+So far it contains my versions of:
 
 
 1. Roll the dices
