@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Disemvoweler
+namespace DailyProgrammer
 {
     internal class tree
     {

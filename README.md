@@ -13,6 +13,7 @@ So far in contains my versions of:
 5. xmas tree generator
 6. Arithmatics
 7. Disemvoweler
+8. IdGenerator
 
 
 If you have any ideas or critics, you are welcome to comment!

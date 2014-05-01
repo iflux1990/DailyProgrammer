@@ -4,12 +4,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Disemvoweler;
 
-namespace Disemvoweler
+namespace DailyProgrammer
 {
     class MainMenu
     {
-        private static string[] commands = {"help", "disemvowel", "quit", "panagrams", "torn", "rpsls", "xmas-tree", "arithmatic", "diceroll"};
+        private static string[] commands = {"help", "disemvowel", "quit", "panagrams", "torn", "rpsls", "xmas-tree", "arithmatic", "diceroll", "idgen"};
 
         public MainMenu()
         {
@@ -44,6 +45,9 @@ namespace Disemvoweler
                     break;
                 case "diceroll":
                     new dice();
+                    break;
+                case "idgen":
+                    new IdGenerator();
                     break;
                 case "quit":
                     Environment.Exit(0);

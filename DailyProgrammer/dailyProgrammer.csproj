@@ -45,6 +45,7 @@
     <Compile Include="Arithmatic.cs" />
     <Compile Include="dice.cs" />
     <Compile Include="Disemvoweler.cs" />
+    <Compile Include="IdGenerator.cs" />
     <Compile Include="MainMenu.cs" />
     <Compile Include="pangrams.cs" />
     <Compile Include="Program.cs" />
