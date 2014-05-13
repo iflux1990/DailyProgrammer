@@ -157,7 +157,7 @@ namespace Disemvoweler
             }
             catch (Exception ex)
             {
-                Console.WriteLine("You need atleast 1 parameter (amount)");
+                Console.WriteLine("You need atleast 1 parameter (amount)" + ex.Message);
             }
             return input();
         }

@@ -47,6 +47,7 @@
     <Compile Include="Disemvoweler.cs" />
     <Compile Include="IdGenerator.cs" />
     <Compile Include="MainMenu.cs" />
+    <Compile Include="Matrix.cs" />
     <Compile Include="pangrams.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -10,7 +10,7 @@ namespace DailyProgrammer
 {
     class MainMenu
     {
-        private static string[] commands = {"help", "disemvowel", "quit", "panagrams", "torn", "rpsls", "xmas-tree", "arithmatic", "diceroll", "idgen"};
+        private static string[] commands = {"help", "disemvowel", "quit", "panagrams", "torn", "rpsls", "xmas-tree", "arithmatic", "diceroll", "idgen", "matrix"};
 
         public MainMenu()
         {
@@ -48,6 +48,9 @@ namespace DailyProgrammer
                     break;
                 case "idgen":
                     new IdGenerator();
+                    break;
+                case "matrix":
+                    new Matrix();
                     break;
                 case "quit":
                     Environment.Exit(0);

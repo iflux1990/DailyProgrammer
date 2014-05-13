@@ -14,6 +14,7 @@ So far it contains my versions of:
 6. Arithmatics
 7. Disemvoweler
 8. IdGenerator
+9. Added a rough MATRIX printer (beware, it breaks stuff!)
 
 
 If you have any ideas or critics, you are welcome to comment!
